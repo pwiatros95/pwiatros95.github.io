@@ -10685,7 +10685,7 @@ header.header-image .header-content .header-content-inner h5 {
 
 @media (min-width: 768px) {
   .header-contact {
-    background-color: #f7f7f7;
+    background-color: #f0f4dc;
     height: 32px;
     line-height: 32px;
     font-size: 16px;
@@ -10715,7 +10715,7 @@ header.header-image .header-content .header-content-inner h5 {
 /***/
 /*==========  4.3 - Nav styles  ==========*/
 .navbar-default {
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   transition: all .35s;
 }
 
@@ -10781,7 +10781,7 @@ header.header-image .header-content .header-content-inner h5 {
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   font-family: "Raleway", Helvetica, sans-serif;
   margin-left: 10px;
   padding-bottom: 10px;
@@ -10810,12 +10810,12 @@ header.header-image .header-content .header-content-inner h5 {
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   color: #979797;
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   color: #979797;
 }
 
@@ -10832,16 +10832,16 @@ header.header-image .header-content .header-content-inner h5 {
 
 .navbar-default .nav > li.active > a, .navbar-default .nav > li.active > a:focus {
   color: #979797 !important;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
 }
 
 .navbar-default .nav > li.active > a:hover, .navbar-default .nav > li.active > a:focus:hover {
-  background-color: #ffffff;
+  background-color: #f0f4dc;
 }
 
 @media (min-width: 768px) {
   .navbar-default {
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     top: 32px;
   }
   .navbar-default .navbar-header .navbar-brand {
@@ -10902,7 +10902,7 @@ header.header-image .header-content .header-content-inner h5 {
     font-size: 13px;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     font-family: "Raleway", Helvetica, sans-serif;
     padding-top: 16px;
     padding-bottom: 16px;
@@ -10923,11 +10923,11 @@ header.header-image .header-content .header-content-inner h5 {
     font-family: "Raleway", Helvetica, sans-serif;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     color: #5b5b5b;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     color: #5b5b5b;
   }
   .navbar-default.affix {
@@ -10969,11 +10969,11 @@ header.header-image .header-content .header-content-inner h5 {
     font-family: "Raleway", Helvetica, sans-serif;
   }
   .navbar-default.affix .open .dropdown-menu > li > a:hover, .navbar-default.affix .open .dropdown-menu > li > a:focus {
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     color: #979797;
   }
   .navbar-default.affix .open .dropdown-menu > .active > a, .navbar-default.affix .open .dropdown-menu > .active > a:hover, .navbar-default.affix .open .dropdown-menu > .active > a:focus {
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     color: #979797;
   }
 }
@@ -11132,8 +11132,8 @@ header.header-image .header-content .header-content-inner h5 {
 }
 
 #main-slider .carousel-caption .btn-primary {
-  margin-top: 48px;
-  font-size: 14px;
+  margin-top: 24px;
+  font-size: 22px;
   padding: 10px 12px;
 }
 
@@ -11303,7 +11303,7 @@ header.header-image .header-content .header-content-inner h5 {
 
 #slider-testimonials {
   min-height: 500px;
-  background-color: #f7f7f7;
+  background-color: #f0f4dc;
 }
 
 #slider-testimonials .carousel-inner {
@@ -11333,6 +11333,7 @@ header.header-image .header-content .header-content-inner h5 {
 
 #slider-testimonials .carousel-inner .container {
   padding: 0;
+  text-transform: uppercase;
 }
 
 #slider-testimonials .icon-prev, #slider-testimonials .icon-next {
@@ -11516,7 +11517,7 @@ hr.divider-light-dark {
 }
 
 hr.divider-light {
-  border-color: #ffffff;
+  border-color: #f0f4dc;
   max-width: 79.2px;
   border-width: 3px;
 }
@@ -11602,6 +11603,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 
 .t108-page .divider-light-dark {
   margin-left: 0;
+  width: 150px;
 }
 
 .t108-page .meta {
@@ -11646,7 +11648,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 #blog .pager a {
   color: #a5e200;
   border-color: #a5e200;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   border-radius: 4px;
   padding: 6px 12px;
   width: 108px;
@@ -11655,7 +11657,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 #blog .pager a:hover {
   color: #88ba00;
   border-color: #88ba00;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
 }
 
 #blog .btn-primary {
@@ -11683,10 +11685,10 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 
 .t108-one-page #about .about-box .icon-about {
   color: #ffffff;
-  width: 72px;
-  height: 72px;
+  width: 96px;
+  height: 96px;
   border-radius: 100%;
-  line-height: 72px;
+  line-height: 96px;
   background-color: #a5e200;
   margin: 0 auto 24px;
 }
@@ -11820,7 +11822,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 }
 
 .t108-one-page #counters-services {
-  background-color: #f7f7f7;
+  background-color: #f0f4dc;
   padding: 96px 0 24px;
 }
 
@@ -11842,7 +11844,8 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 }
 
 .t108-one-page #counters-services .counters-box .divider-light-dark {
-  width: 48px;
+  width: 25px;
+  opacity: 0.5;
   margin-left: 0;
   margin-bottom: 20px;
 }
@@ -11905,7 +11908,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
   border-radius: 100%;
   line-height: 40px;
   outline: 0;
-  color: #ffffff;
+  color: #f0f4dc;
   background-color: #dddddd;
   transition: all .3s;
 }
@@ -11974,7 +11977,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 }
 
 #error-404 .background-error {
-  background-color: #f7f7f7;
+  background-color: #f0f4dc;
 }
 
 #error-404 h1 {
@@ -12308,7 +12311,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 #common-elements .toggles a .panel-heading {
   width: 100%;
   border: 1px solid #dddddd;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   text-transform: uppercase;
   box-shadow: none;
   padding: 10px;
@@ -12331,7 +12334,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 
 #common-elements .tabs ul a {
   border-radius: 0px;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   text-transform: uppercase;
   font-size: 13px;
   border: 1px solid #dddddd;
@@ -12711,7 +12714,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
   width: 260px;
   padding: 0;
   border: 0px;
-  background-color: #f7f7f7;
+  background-color: #f0f4dc;
   color: #5b5b5b;
   margin-bottom: 0;
 }

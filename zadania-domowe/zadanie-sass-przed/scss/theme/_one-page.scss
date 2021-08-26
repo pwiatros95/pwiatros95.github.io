@@ -20,10 +20,10 @@
 
             .icon-about {
                 color: $color-text-primary;
-                width: $base-font-size * 4.5;
-                height: $base-font-size * 4.5;
+                width: 96px;
+                height: 96px;
                 border-radius: 100%;
-                line-height: $base-font-size * 4.5;
+                line-height: 96px;
                 background-color: $color-primary;
                 margin: $margin-none auto $baseline;
             }
@@ -188,7 +188,8 @@
             }
 
             .divider-light-dark {
-                width: $baseline * 2;
+                width: 25px;
+                opacity: 0.5;
                 margin-left: $padding-none;
                 margin-bottom: 20px;
             }

@@ -3,6 +3,11 @@
 
 .t108-footer {
 	background-color: $color-footer;
+	padding-top: 80px;
+
+	.btn-social {
+		font-size: 25px;
+	}
 
 	.footer-above {
 		padding-top: $baseline * 2;

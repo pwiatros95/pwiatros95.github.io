@@ -11372,6 +11372,11 @@ header.header-image .header-content .header-content-inner h5 {
 /*==========  4.6 - Footer styles  ==========*/
 .t108-footer {
   background-color: #222222;
+  padding-top: 80px;
+}
+
+.t108-footer .btn-social {
+  font-size: 25px;
 }
 
 .t108-footer .footer-above {
@@ -11511,14 +11516,14 @@ hr {
 }
 
 hr.divider-light-dark {
-  max-width: 79.2px;
+  max-width: 150px;
   border-color: #a5e200;
   border-width: 3px;
 }
 
 hr.divider-light {
   border-color: #f0f4dc;
-  max-width: 79.2px;
+  max-width: 150px;
   border-width: 3px;
 }
 
@@ -11797,7 +11802,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
   height: 100%;
   opacity: 0;
   background: rgba(34, 34, 34, 0.8);
-  transition: all .35s;
+  transition: all 1s;
 }
 
 .t108-one-page #portfolio .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
@@ -11833,6 +11838,11 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
   border-radius: 100%;
   line-height: 72px;
   border: 2px solid #a5e200;
+  transition: all 0.5s;
+}
+
+.t108-one-page #counters-services .icon-services:hover {
+  transform: rotate(-45deg);
 }
 
 .t108-one-page #counters-services .counters-box {
